@@ -4,7 +4,7 @@ Learn the most commonly used linux commands
 ---
 ## Commands
 |Command | Description|
-|----------|-----------–|
+|----------|-----------|
 | pwd | Show current directory|
 | ls | List files |
 | cd | change Directory |
@@ -13,7 +13,8 @@ Learn the most commonly used linux commands
 | rm | remove files |
 
 ----
-## Examples### Displays Current directory
+## Examples
+### Displays Current directory
 ```bash
 pwd
 ```
@@ -27,12 +28,12 @@ cp file.txt backup/
 ```
 ---
 ## Practice
--[] Create a  folder
--[] Copy a file
--[] Move a file
--[] Delete  a file
+- [ ] Create a folder
+- [ ] Copy a file
+- [ ] Move a file
+- [ ] Delete a file
 ---
 ## Notes
-The 'cp' command copies files
-The 'mv' Command moves files
+The `cp` command copies files.  
+The `mv` Command moves files.
 
